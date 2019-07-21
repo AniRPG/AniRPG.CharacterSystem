@@ -6,6 +6,11 @@
 
   <ItemGroup>
     <PackageReference Include="AniRPG.Core.Common" Version="0.1.0-CI-20190721-163323" />
+    <PackageReference Include="FluentValidation" Version="8.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AniRPG.CharacterSystem.Domain\AniRPG.CharacterSystem.Domain.csproj" />
   </ItemGroup>
 
 </Project>
