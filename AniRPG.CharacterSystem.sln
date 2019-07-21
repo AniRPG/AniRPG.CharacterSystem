@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AniRPG.CharacterSystem.Doma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AniRPG.CharacterSystem.Game", "AniRPG.CharacterSystem.Game\AniRPG.CharacterSystem.Game.csproj", "{252AEAE9-7A3E-40E0-A413-3A94CC2F21A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AniRPG.CharacterSystem.Game.UI", "AniRPG.CharacterSystem.Game.UI\AniRPG.CharacterSystem.Game.UI.csproj", "{C278EE1E-66D8-4E77-9F0C-44726AEB3B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AniRPG.CharacterSystem.Game.Persistence", "AniRPG.CharacterSystem.Game.Persistence\AniRPG.CharacterSystem.Game.Persistence.csproj", "{1AB1DB3A-D8A2-4120-8306-675F41A0AC5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{252AEAE9-7A3E-40E0-A413-3A94CC2F21A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{252AEAE9-7A3E-40E0-A413-3A94CC2F21A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{252AEAE9-7A3E-40E0-A413-3A94CC2F21A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C278EE1E-66D8-4E77-9F0C-44726AEB3B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C278EE1E-66D8-4E77-9F0C-44726AEB3B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C278EE1E-66D8-4E77-9F0C-44726AEB3B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C278EE1E-66D8-4E77-9F0C-44726AEB3B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB1DB3A-D8A2-4120-8306-675F41A0AC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB1DB3A-D8A2-4120-8306-675F41A0AC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB1DB3A-D8A2-4120-8306-675F41A0AC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB1DB3A-D8A2-4120-8306-675F41A0AC5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

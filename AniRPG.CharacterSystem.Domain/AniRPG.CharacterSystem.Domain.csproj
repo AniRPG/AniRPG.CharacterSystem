@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AniRPG.Core.Domain" Version="0.1.0-CI-20190721-163323" />
+  </ItemGroup>
+
 </Project>
